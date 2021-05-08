@@ -1,0 +1,26 @@
+navigation:
+  - title: Scrum Lake
+    url: /
+  - title: Scrum Lake Story
+    url: /thestory
+  - title: Your Facilitators
+    url: /divemasters
+  - title: Upcoming Workshops
+    url: /workshops
+
+legal:
+  - title: Privacy Policy
+    url: /legal/privacy
+  - title: Terms and Conditions
+    url: /legal/terms
+  - title: Copyright, Licenses and Disclaimer
+    url: /legal/agreements
+
+
+    
+sales:
+  - title: 7 People
+    url: /7people
+
+workshops:
+  - eventidchk: id/671760/chk/eb25
