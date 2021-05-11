@@ -1,13 +1,7 @@
-
-  .img-fluid {
-        max-width: 100%;
-        height: auto;
-        position: absolute;
-        top: 0;
-    }
-
-
-
+.logo {
+  float:left;
+  z-index: 1000;
+}
 
 .fa {
   padding: 40px;
